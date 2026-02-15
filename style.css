@@ -1,0 +1,12 @@
+@media (min-width:992px){
+   .relative{
+    position: relative;
+   }
+
+   .isolate{
+    position: absolute;
+    top: -50px;
+    left: 150px;
+    border-radius: 20px;
+   }
+}
